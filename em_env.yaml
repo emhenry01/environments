@@ -22,8 +22,6 @@ dependencies:
   - pymongo=3.7.*
   - pytest=4.4.*
   - xlrd=1.2.*
-  - geopandas=0.4.*
-  - folium=0.5.* # this must follow geopandas because it is downgrading this package - currently not the most updated version
   - cookiecutter=1.6.*
   - flake8=3.7.*
   - openpyxl=2.6.*
